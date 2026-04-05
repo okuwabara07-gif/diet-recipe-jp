@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diet-recipe-jp.vercel.app/sitemap.xml
