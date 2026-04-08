@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://diet-recipe-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/diet-recipe-jp/sitemap.xml
